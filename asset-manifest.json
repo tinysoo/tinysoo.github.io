@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc68ff33.chunk.css",
+    "main.js": "/static/js/main.09be8525.chunk.js",
+    "main.js.map": "/static/js/main.09be8525.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.68e159a1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.68e159a1.js.map",
+    "static/js/2.e7d2daf0.chunk.js": "/static/js/2.e7d2daf0.chunk.js",
+    "static/js/2.e7d2daf0.chunk.js.map": "/static/js/2.e7d2daf0.chunk.js.map",
+    "static/js/3.d9f056f2.chunk.js": "/static/js/3.d9f056f2.chunk.js",
+    "static/js/3.d9f056f2.chunk.js.map": "/static/js/3.d9f056f2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bc68ff33.chunk.css.map": "/static/css/main.bc68ff33.chunk.css.map",
+    "static/js/2.e7d2daf0.chunk.js.LICENSE.txt": "/static/js/2.e7d2daf0.chunk.js.LICENSE.txt",
+    "static/media/11.fb1421ef.jpg": "/static/media/11.fb1421ef.jpg",
+    "static/media/12.dbe6947a.jpg": "/static/media/12.dbe6947a.jpg",
+    "static/media/airpods.4ad91566.jpg": "/static/media/airpods.4ad91566.jpg",
+    "static/media/airpodspro.9f6d686d.jpg": "/static/media/airpodspro.9f6d686d.jpg",
+    "static/media/imac13.27001be8.jpg": "/static/media/imac13.27001be8.jpg",
+    "static/media/imac27.4cf16733.jpg": "/static/media/imac27.4cf16733.jpg",
+    "static/media/ipad.0b57a653.jpeg": "/static/media/ipad.0b57a653.jpeg",
+    "static/media/ipadair.b961a751.jpeg": "/static/media/ipadair.b961a751.jpeg",
+    "static/media/ipadmini.0aff85fe.jpeg": "/static/media/ipadmini.0aff85fe.jpeg",
+    "static/media/ipadpro.cfbb9398.jpeg": "/static/media/ipadpro.cfbb9398.jpeg",
+    "static/media/App.css": "/static/media/iphone12_adobespark.6aedcdf7.jpeg",
+    "static/media/macbookair.6c7f5c9d.png": "/static/media/macbookair.6c7f5c9d.png",
+    "static/media/macbookpro.60d01e9a.jpg": "/static/media/macbookpro.60d01e9a.jpg",
+    "static/media/pro.fff90e62.jpg": "/static/media/pro.fff90e62.jpg",
+    "static/media/se.f8a2879a.jpg": "/static/media/se.f8a2879a.jpg",
+    "static/media/watch3.927fb04c.jpg": "/static/media/watch3.927fb04c.jpg",
+    "static/media/watch6.e6ac0323.jpg": "/static/media/watch6.e6ac0323.jpg",
+    "static/media/watchse.8361c599.jpg": "/static/media/watchse.8361c599.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68e159a1.js",
+    "static/js/2.e7d2daf0.chunk.js",
+    "static/css/main.bc68ff33.chunk.css",
+    "static/js/main.09be8525.chunk.js"
+  ]
+}
